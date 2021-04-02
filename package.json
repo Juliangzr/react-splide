@@ -27,7 +27,7 @@
     "react-dom": "16.13.1"
   },
   "dependencies": {
-    "@splidejs/splide": "https://github.com/CptCornWault/splide/tarball/refs/heads/master"
+    "splide": "https://github.com/CptCornWault/splide/tarball/refs/heads/master"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
